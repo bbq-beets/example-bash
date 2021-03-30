@@ -10,7 +10,7 @@ a_function "0"
 
 a_function "1"
 
-if [ "a" = "a" ];
+if [ "a" = "b" ];
 then
     echo "hit"
 else
