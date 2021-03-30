@@ -1,0 +1,10 @@
+name: Testtttt
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: sleeeeppppy
+        run: sleep 90
